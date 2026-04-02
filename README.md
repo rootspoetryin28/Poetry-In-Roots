@@ -26,7 +26,54 @@ Poetry-In-Roots/
       <a href="https://www.youtube.com/shorts/2vE-59B85DA">YouTube</a>
     </div>
   </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Self Respect V/s Ego</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h1>Self Respect V/s Ego</h1>
+  <p>
+    Full poem or blog content goes here...
+  </p>
 
+  <a href="index.html">← Back to Blog</a>
+
+  <div class="links">
+    <a href="https://www.instagram.com/reels/DWR1iXXioru/">Instagram</a>
+    <a href="https://www.facebook.com/reel/1884490325563377">Facebook</a>
+    <a href="https://www.youtube.com/shorts/2vE-59B85DA">YouTube</a>
+  </div>
+</body>
+</html>body {
+  font-family: Arial, sans-serif;
+  background: #fdf6f0;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 { text-align: center; }
+
+.card {
+  background: #fff;
+  padding: 20px;
+  margin: 10px auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  max-width: 600px;
+}a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #d35400;
+}
+
+.links {
+  margin-top: 10px;
+}
+4️⃣ style.css (Basic Styling)
   <!-- Repeat similar card structure for all your blogs/posts -->
 </body>
 </html>
