@@ -74,6 +74,11 @@ h1 { text-align: center; }
   margin-top: 10px;
 }
 4️⃣ style.css (Basic Styling)
-  <!-- Repeat similar card structure for all your blogs/posts -->
+  <!-- Repeat similar card structure for all your blogs/posts -->git init
+git add .
+git commit -m "Add website files"
+git branch -M main
+git remote add origin https://github.com/rootspoetryin28/Poetry-In-Roots.git
+git push -u origin main
 </body>
 </html>
